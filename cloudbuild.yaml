@@ -1,0 +1,12 @@
+steps:
+  - name: "gcr.io/cloud-builders/npm"
+    dir: "client"
+    args: ["install"]
+
+  - name: "gcr.io/cloud-builders/npm"
+    dir: "client"
+    args: ["run", "build"]
+
+artifacts:
+  files:
+    - client/build/**

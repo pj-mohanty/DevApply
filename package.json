@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@monaco-editor/react": "^4.7.0",
+    "highcharts": "^12.3.0",
+    "highcharts-react-official": "^3.2.2",
+    "openai": "^5.10.2",
+    "marked": "^16.1.1",
+    "openai": "^5.10.2",
+    "prismjs": "^1.30.0"
+  }
+}

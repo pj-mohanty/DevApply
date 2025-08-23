@@ -1,0 +1,14 @@
+# Node dependencies
+node_modules/
+npm-debug.log
+
+# Local .env file 
+.env
+
+# Firestore seed 
+scripts/
+tests/
+
+# IDE and system files
+.DS_Store
+.vscode/
