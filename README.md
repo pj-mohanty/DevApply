@@ -163,7 +163,7 @@ The backend will run on: http://localhost:3001
 cd client
 npm run start
 ```
-The frontend will be available at: http://localhost:3000 (now I just have journalPage and interviewPage.)
+The frontend will be available at: http://localhost:3000 .
 
 8. Access the Application
 Open your browser and go to: http://localhost:3000/journal or http://localhost:3000/interview
